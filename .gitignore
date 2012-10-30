@@ -1,2 +1,4 @@
 
 /node_modules
+/test/public/css/style.css
+/test/public/scripts/main.js
