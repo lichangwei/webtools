@@ -1,3 +1,3 @@
 (function(win){
-    var b = false;
+  var b = false;
 })(window);
