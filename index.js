@@ -17,7 +17,7 @@ var libs = {};
     });
     !start.running && start();
     return this;
-  }
+  };
 });
 
 function start(){
